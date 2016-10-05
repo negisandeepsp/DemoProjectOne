@@ -5,6 +5,7 @@
     <classes>
       <class name="myPackage.Googly">
         <methods>
+          <include name="closeBrowser"/>
           <include name="openBrowser"/>
         </methods>
       </class> <!-- myPackage.Googly -->

@@ -52,7 +52,7 @@ public class Googly
 				
 				
 				String title = driver.getTitle();
-				Assert.assertTrue(title.contains("Splash Math - Fun Math Practice for Grades 1-512 | Splash Math"));
+				Assert.assertTrue(title.contains("Splash Math - Fun Math Practice for Grades 1-5 | Splash Math"));
 			String location =	images.takeScreenshot("LandingPage", "abc");
 	// To Tell Test is Pass
 				logger.log(LogStatus.PASS,"Title Verified");
