@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24861" started-at="2016-10-05T09:31:06Z" finished-at="2016-10-05T09:31:31Z">
+  <suite name="Suite" duration-ms="39763" started-at="2016-10-05T10:45:51Z" finished-at="2016-10-05T10:46:31Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24861" started-at="2016-10-05T09:31:06Z" finished-at="2016-10-05T09:31:31Z">
+    <test name="Test" duration-ms="39763" started-at="2016-10-05T10:45:51Z" finished-at="2016-10-05T10:46:31Z">
       <class name="myPackage.Googly">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:myPackage.Googly@1ddd392]" name="openBrowser" duration-ms="12663" started-at="2016-10-05T15:01:06Z" finished-at="2016-10-05T15:01:18Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:myPackage.Googly@1ddd392]" name="openBrowser" duration-ms="21462" started-at="2016-10-05T16:15:51Z" finished-at="2016-10-05T16:16:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:myPackage.Googly@1ddd392]" name="closeBrowser" is-config="true" duration-ms="12176" started-at="2016-10-05T15:01:18Z" finished-at="2016-10-05T15:01:31Z">
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:myPackage.Googly@1ddd392]" name="closeBrowser" is-config="true" duration-ms="18253" started-at="2016-10-05T16:16:13Z" finished-at="2016-10-05T16:16:31Z">
           <params>
             <param index="0">
               <value>
